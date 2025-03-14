@@ -41,8 +41,8 @@
 <p align="center">
  <p align="center">
   <a href="https://www.credly.com/badges/53f2fb80-6a9d-4aac-a11c-c8c57a6a7df0?source=linked_in_profile" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/d17db04c-7c17-4bb6-ac91-e287dfb3340c/VMware_Cert_P_DCV.png" alt="VMware Certified Professional - Data Center Virtualization" width="150" height="150"/><a href="https://www.credly.com/badges/0f77880b-ac01-4cbd-a4cd-b031f15c602d?source=linked_in_profile" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="VMware Certified Professional - Data Center Virtualization" width="150" height="150"/>
+    <img src="https://images.credly.com/size/340x340/images/d17db04c-7c17-4bb6-ac91-e287dfb3340c/VMware_Cert_P_DCV.png" alt="VMware Certified Professional - Data Center Virtualization" width="100" height="100"/><a href="https://www.credly.com/badges/0f77880b-ac01-4cbd-a4cd-b031f15c602d?source=linked_in_profile" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="VMware Certified Professional - Data Center Virtualization" width="100" height="100"/>
   </a>
 </p>
 
