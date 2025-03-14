@@ -11,24 +11,6 @@
 
 
 <h3 align="center">Core Proficiencies</h3>
-
-<h5>
-<div align="center">
- 
-|                                 |                                 |
-|---------------------------------|---------------------------------|
-| - Infrastructure as Code        | - Virtulisation                 |
-| - Scripting/Automation          | - Configuration Management      |
-| - Serverless Architecture       | - Monitoring & Observability    |
-| - Load Balancing & High Availability | - Log Analytics            |
-| - Storage Management        | - Jira & Confluence Workflow        |
-| - Security Best Practices       | - Database Administration       |
-| - System Architecture & Design  | - DevOps Practices & Culture    |
-
-</div>
-</h5>
-
-### Core Competencies
 <div align="center">
 <table>
   <tr>
@@ -63,6 +45,12 @@
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="VMware Certified Professional - Data Center Virtualization" width="150" height="150"/>
   </a>
 </p>
+
+## Performance Metrics
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats-snowy-delta.vercel.app?user=seanberrypavaday&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seanberrypavaday&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <h4 align="center">Connect with me:</h4>
