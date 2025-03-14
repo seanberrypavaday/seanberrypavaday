@@ -1,6 +1,6 @@
 <h1 align="center">Sean Berry-Pavaday</h1>
 
-<h2align="center">Platform & Infrastructure Engineer</h2>
+<h2 align="center">Platform & Infrastructure Engineer</h2>
 <p align="center" style="font-size: 8px;">A skilled Infrastructure Engineer with deep expertise in on-premises environments, now transitioning to embrace DevOps approaches. Committed to crafting resilient, scalable systems and promoting automation excellence. Passionate about evolving IT operations through modern practices and fully integrating DevOps principles.</p>
 
 
