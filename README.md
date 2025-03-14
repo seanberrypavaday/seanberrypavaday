@@ -47,9 +47,13 @@
 </p>
 
 ## Performance Metrics
+
 <div align="center">
+ 
 [![GitHub Streak](https://github-readme-streak-stats-snowy-delta.vercel.app?user=seanberrypavaday&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seanberrypavaday&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
