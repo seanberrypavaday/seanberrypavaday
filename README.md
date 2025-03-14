@@ -1,6 +1,6 @@
 <h1 align="center">Sean Berry-Pavaday</h1>
 
-<h3 align="center">Platform & Infrastructure Engineer</h3>
+<h2align="center">Platform & Infrastructure Engineer</h2>
 <p align="center" style="font-size: 8px;">A skilled Infrastructure Engineer with deep expertise in on-premises environments, now transitioning to embrace DevOps approaches. Committed to crafting resilient, scalable systems and promoting automation excellence. Passionate about evolving IT operations through modern practices and fully integrating DevOps principles.</p>
 
 
@@ -27,6 +27,32 @@
 
 </div>
 </h5>
+
+### Core Competencies
+<div align="center">
+<table>
+  <tr>
+    <td>
+      ▪ Infrastructure as Code<br>
+      ▪ Scripting/Automation<br>
+      ▪ Serverless Architecture<br>        
+      ▪ Load Balancing & High Availability<br> 
+      ▪ Storage Management<br>  
+      ▪ Security Best Practices<br> 
+      ▪ System Architecture & Design
+    </td>
+    <td>
+      ▪ Virtualisation<br>
+      ▪ Configuration Management<br>
+      ▪ Monitoring & Observability<br>
+      ▪ Log Analytics<br>
+      ▪ Jira & Confluence Workflow<br>
+      ▪ Database Administration<br>
+      ▪ DevOps Practices & Culture
+    </td>
+  </tr>
+</table>
+</div>
 
 
 <h2 align="center">Certifications</h2>
