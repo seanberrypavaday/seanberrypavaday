@@ -20,7 +20,7 @@
 | - Infrastructure as Code        | - Virtulisation                 |
 | - Scripting/Automation          | - Configuration Management      |
 | - Serverless Architecture       | - Monitoring & Observability    |
-| - Load Balancing & High Availability | - Logging & Alerting Systems    |
+| - Load Balancing & High Availability | - Logging Analytics    |
 | - Storage Management        | - Jira & Confluence Workflow    |
 | - Security Best Practices       | - Database Administration       |
 | - System Architecture & Design  | - DevOps Practices & Culture    |
